@@ -1,0 +1,34 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+body{
+	 background-repeat: no-repeat;
+                background-size: 100% 100%;
+                background-attachment: fixed;
+}
+.title{
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.tit{
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.accounts{position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+input{
+	border: 2px solid #32e17c;
+	height: 30px;
+	width: 160px;
+	border-radius: 60px;
+	padding: 0px 10px;
+}

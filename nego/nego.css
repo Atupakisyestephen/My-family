@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+body{
+	 background-repeat: no-repeat;
+                background-size: 100% 100%;
+                background-attachment: fixed;
+}
+.title{
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.hobbies{
+	position: absolute;
+	top: 25%;
+	left: 22%;
+	transform: translate(-50%,-50%);
+}
